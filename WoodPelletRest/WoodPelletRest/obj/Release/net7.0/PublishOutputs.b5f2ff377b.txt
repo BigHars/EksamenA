@@ -1,0 +1,14 @@
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\WoodPelletRest.exe
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\appsettings.json
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\WoodPelletRest.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\WoodPelletRest.deps.json
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\WoodPelletRest.runtimeconfig.json
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\WoodPelletRest.pdb
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\WoodPelletsLib.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletRest\WoodPelletRest\obj\Release\net7.0\PubTmp\Out\WoodPelletsLib.pdb

@@ -1,0 +1,11 @@
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\bin\Debug\net7.0\WoodPelletsLib.deps.json
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\bin\Debug\net7.0\WoodPelletsLib.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\bin\Debug\net7.0\WoodPelletsLib.pdb
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\WoodPelletsLib.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\WoodPelletsLib.AssemblyInfoInputs.cache
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\WoodPelletsLib.AssemblyInfo.cs
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\WoodPelletsLib.csproj.CoreCompileInputs.cache
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\WoodPelletsLib.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\refint\WoodPelletsLib.dll
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\WoodPelletsLib.pdb
+Z:\Documents\Zealand\3.semester\Visual Studio Projects\WoodPelletsLib\WoodPelletsLib\obj\Debug\net7.0\ref\WoodPelletsLib.dll
